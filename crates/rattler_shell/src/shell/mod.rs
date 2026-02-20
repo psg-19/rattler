@@ -991,7 +991,7 @@ impl ShellEnum {
 
         None
     }
-}
+} 
 
 /// Parsing of a shell was not possible. The shell most likely is not supported.
 #[derive(Debug, Error)]
